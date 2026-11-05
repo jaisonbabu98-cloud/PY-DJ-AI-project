@@ -6,7 +6,6 @@ Overview: Designed and built a full-stack web application using Python and Djang
           
 Key Architecture & Modules:Developed modular backend structures including a custom user management system (accounts),
                            a real-time conversational interface (chat), and a dynamic prompt or workspace builder (project_creator).
-                           
                            Configured secure database models, API endpoints, views, and service layers to handle seamless communication 
                            between Django and external LLM/Gemini APIs.
                            
